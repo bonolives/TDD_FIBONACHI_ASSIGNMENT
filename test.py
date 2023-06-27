@@ -1,4 +1,5 @@
 # Fibonacci assignment : Richard Kwizera and Oliver Balyama
+from fibonachi import fibonacci
 
 
 # defining the test one function for Fibonacci Sequence
